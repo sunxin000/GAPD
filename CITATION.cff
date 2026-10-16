@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the GAPD paper."
+type: software
+version: 0.1.1
+date-released: 2026-10-16
+license: Apache-2.0
+repository-code: "https://github.com/sunxin000/GAPD"
+title: "GAPD: Gold-Action Policy Distillation for Agentic Reinforcement Learning in Knowledge Base Question Answering"
+authors:
+  - family-names: Sun
+    given-names: Xin
+  - family-names: Xie
+    given-names: Jianan
+  - family-names: Chen
+    given-names: Zhongqi
+  - family-names: Liu
+    given-names: Qiang
+  - family-names: Wu
+    given-names: Shu
+  - family-names: Song
+    given-names: Bowen
+  - family-names: Wang
+    given-names: Weiqiang
+  - family-names: Wang
+    given-names: Zilei
+  - family-names: Wang
+    given-names: Liang
+preferred-citation:
+  type: article
+  title: "GAPD: Gold-Action Policy Distillation for Agentic Reinforcement Learning in Knowledge Base Question Answering"
+  authors:
+    - {family-names: Sun, given-names: Xin}
+    - {family-names: Xie, given-names: Jianan}
+    - {family-names: Chen, given-names: Zhongqi}
+    - {family-names: Liu, given-names: Qiang}
+    - {family-names: Wu, given-names: Shu}
+    - {family-names: Song, given-names: Bowen}
+    - {family-names: Wang, given-names: Weiqiang}
+    - {family-names: Wang, given-names: Zilei}
+    - {family-names: Wang, given-names: Liang}
+  year: 2026
+  journal: arXiv
+  doi: 10.48550/arXiv.2605.29584
+  url: "https://arxiv.org/abs/2605.29584"

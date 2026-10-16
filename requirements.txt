@@ -1,0 +1,3 @@
+# Install the bundled fork, not an unrelated PyPI verl package.
+# Prepare the CUDA/PyTorch/vLLM stack first; see docs/SETUP.md.
+-e .[train]
